@@ -134,4 +134,3 @@ while cont <= 100:
 print(f'A soma de todos os valores pares é: {soma}')
 
 """
-
