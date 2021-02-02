@@ -1,6 +1,6 @@
 """
 
-# Ex 1 - Seção 7
+# Ex 1 - Seção 7 - Parte 1
 
 A = [1, 0, 5, -2, -5, 7]
 
@@ -16,7 +16,7 @@ for i in A:
     print(i)
 
 
-# Ex 2 - Seção 7
+# Ex 2 - Seção 7 - Parte 1
 
 cont = 0
 lista = []
@@ -27,7 +27,7 @@ while cont < 6:
 print(lista)
 
 
-# Ex 3 - Seção 7
+# Ex 3 - Seção 7 - Parte 1
 
 cont = 0
 listReal = []
@@ -43,7 +43,7 @@ print(listReal)
 print(listResult)
 
 
-# Ex 4 - Seção 7
+# Ex 4 - Seção 7 - Parte 1
 
 lista = list(range(8))
 print(lista)
@@ -54,7 +54,7 @@ y = int(input('Informe a segunda posição do vetor para a soma:'))
 print(lista[x] + lista[y])
 
 
-# Ex 5 - Seção 7
+# Ex 5 - Seção 7 - Parte 1
 
 lista = []
 contPar = 0
@@ -70,7 +70,7 @@ while cont < 10:
 print(contPar)
 
 
-# Ex 6 - Seção 7
+# Ex 6 - Seção 7 - Parte 1
 
 lista = []
 cont = 0
@@ -84,7 +84,7 @@ print(max(lista))
 print(min(lista))
 
 
-# Ex 7 - Seção 7
+# Ex 7 - Seção 7 - Parte 1
 
 lista = []
 cont = 0
@@ -99,7 +99,7 @@ maxi = max(lista)
 print(maxi)
 print(lista.index(maxi))
 
-# Ex 8 - Seção 7
+# Ex 8 - Seção 7 - Parte 1
 
 lista = []
 cont = 0
@@ -112,7 +112,7 @@ print(lista)
 print(lista[::-1])
 
 
-# Ex 9 - Seção 7
+# Ex 9 - Seção 7 - Parte 1
 
 lista = []
 cont = 0
@@ -129,7 +129,7 @@ print(lista)
 print(lista[::-1])
 
 
-# Ex 10 - Seção 7
+# Ex 10 - Seção 7 - Parte 1
 
 lista = []
 cont = 0
